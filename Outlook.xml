@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<wundbar>
+	<mailInit>1</mailInit>
+	<shortcutInit>1</shortcutInit>
+	<version>155571</version>
+	<initMail>1</initMail>
+	<initShortcuts>1</initShortcuts>
+	<dataversion>1202</dataversion>
+	<stores>
+		<storeblock>
+			<eidstore>0000000038A1BB1005E5101AA1BB08002B2A56C200006D737073742E646C6C00000000004E495441F9BFB80100AA0037D96E0000000043003A005C00550073006500720073005C00480050005C004F006E006500440072006900760065005C0050006500720073006F006E0061006C005C004F006600660069006300650020004C00690076006500200038BB1CC15C0038BB1CC15C004F00750074006C006F006F006B0020000CD37CC75C004F00750074006C006F006F006B0031002E007000730074000000</eidstore>
+			<storeid>66</storeid>
+			<crawledIn12>1</crawledIn12>
+		</storeblock>
+	</stores>
+	<userdefined>
+		<linkgroup name="바로 가기" clsid="6CEA87B21D28BA429FEFB9D45306F673">
+		</linkgroup>
+		<linkgroup name="바로 가기" clsid="EFED23342925CA4BA53A3CD8352A00FA">
+		</linkgroup>
+	</userdefined>
+	<tasks>
+		<wdLnk>
+			<ltype>normal</ltype>
+			<reckey>A2810000</reckey>
+			<eid>00000000CEF05CBF16040C489F14A12612B6F70BA2810000</eid>
+			<name>작업</name>
+			<storeid>45</storeid>
+		</wdLnk>
+		<wdLnk>
+			<ltype>normal</ltype>
+			<reckey>00000000E7E66AA379BDCA4885DDEEA41418B2AD0100223DDCA0CA775B4EB78F57B2C11AECB60000000000040000</reckey>
+			<eid>00000000E7E66AA379BDCA4885DDEEA41418B2AD0100223DDCA0CA775B4EB78F57B2C11AECB60000000000040000</eid>
+			<name>작업(이 컴퓨터만 해당)</name>
+			<storeid>2</storeid>
+		</wdLnk>
+	</tasks>
+</wundbar>
